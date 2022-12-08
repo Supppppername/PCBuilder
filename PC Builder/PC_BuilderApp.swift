@@ -1,9 +1,4 @@
-//
-//  PC_BuilderApp.swift
-//  PC Builder
-//
-//  Created by Kingsley Situ on 12/8/22.
-//
+
 
 import SwiftUI
 
@@ -21,4 +16,10 @@ struct PC_BuilderApp: App {
 
 extension String  {
     var isnumberordouble: Bool { return Double(self) != nil }
+}
+
+struct Previews_PC_BuilderApp_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
 }

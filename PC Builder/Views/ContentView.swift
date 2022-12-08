@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  PC Builder
-//
-//  Created by Kingsley Situ on 12/8/22.
-//
 
 import SwiftUI
 import CoreData

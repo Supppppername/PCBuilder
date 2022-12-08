@@ -1,9 +1,4 @@
-//
-//  AddPartsView.swift
-//  PC Builder
-//
-//  Created by Kingsley Situ on 12/8/22.
-//
+
 
 import SwiftUI
 
@@ -77,5 +72,11 @@ struct AddPartsView: View {
             }
         } //: NAVIGATION
         
+    }
+}
+
+struct Previews_AddPartsView_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
     }
 }
